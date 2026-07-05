@@ -1,0 +1,9 @@
+                precision    recall  f1-score   support
+
+          bare       0.99      0.96      0.98       200
+heavily_grazed       0.92      0.95      0.94       200
+ softly_grazed       0.92      0.92      0.92       200
+
+      accuracy                           0.94       600
+     macro avg       0.95      0.94      0.95       600
+  weighted avg       0.95      0.94      0.95       600

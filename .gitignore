@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.streamlit/secrets.toml
+
+dataset/
+
+models/*.pth
+!models/resnet50_best.pth
+
+.vscode/

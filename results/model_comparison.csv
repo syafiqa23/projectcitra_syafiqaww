@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+ResNet50,94.67,95.0,95.0,95.0
+MobileNetV2,94.5,95.0,94.0,95.0
+ResNet101,93.33,93.0,93.0,93.0
