@@ -843,7 +843,7 @@ def main():
     st.markdown(
         """
         <footer class="footer">
-            <strong>Proyek Penelitian Tugas Akhir Mahasiswa S1</strong><br>
+            <strong>Proyek Penelitian Analisis Citra</strong><br>
             Sistem Klasifikasi Vegetasi Gambut Berbasis Deep Learning & Citra UAV<br>
             <span style="opacity: 0.8; font-size: 0.85rem;">Hanya untuk Keperluan Akademik dan Evaluasi Penelitian</span>
         </footer>
